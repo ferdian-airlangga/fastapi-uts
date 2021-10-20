@@ -1,0 +1,20 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "kanji"
+        },
+        {
+            "id": 2,
+            "name": "bakso"
+        },
+        {
+            "id": 3,
+            "name": "bakso"
+        },
+        {
+            "id": 4,
+            "name": "kacang"
+        }
+    ]
+}
